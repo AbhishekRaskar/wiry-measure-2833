@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Products</title>
+</head>
+
+<body>
+    <form>
+        <input type="text" id="name" placeholder="Product Name">
+        <input type="text" id="description" placeholder="description">
+        <input type="text" id="image" placeholder="Image Url">
+        <!-- <input type="text" id="price" placeholder="Price"> -->
+        <!-- <select name="Gender" id="gender">
+            <option value="A">all</option>
+            <option value="Mens">Mens</option>
+            <option value="F">Female</option> 
+        </select> -->
+        <button id="add">Submit</button>
+    </form>
+</body>
+
+</html>
+<script>
+    let Add = document.getElementById("add");
+
+    let data = [];
+    function Product(n, d, i, p, g) {
+        this.name = n;
+        this.description = d;
+        this.image = i;
+        this.price = p;
+        // this.gender = g;
+    }
+
+
+    Add.addEventListener("click", function (event) {
+        // console.log("working");
+        event.preventDefault()
+        let form = document.querySelector("form");
+        let name = form.name.value;
+        let description = form.description.value;
+        let image = form.image.value;
+        let price = Math.floor(Math.random() * 10000)
+        // let gender = form.gender.value;
+
+        
+        let add = new Product(name, description, image, price);
+
+        // let data = [];
+        data.push(add);
+        console.log(data)
+        localStorage.setItem("Products", JSON.stringify(data));
+    });
+
+</script>

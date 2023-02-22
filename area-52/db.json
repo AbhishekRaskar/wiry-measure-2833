@@ -1,0 +1,533 @@
+{
+    "mens": [
+        {
+            "id": 1,
+            "description": "Everybody loves the comfort of the Crocs Classic Clog — and now there is a toasty lined version to keep the feeling going all season. The soft, fuzzy liner adds to the cushion and comfort, indoors or out. Great as a slipper, yet capable to run errands, too. Croslite™ foam construction keeps them light and easy to wear. The pivoting heel strap gives you a secure fit, or push it forward to just step in and go.",
+            "image": "https://media.crocs.com/images/t_thumbnail/f_auto%2Cq_auto/products/203591_3UG_ALT100/crocs",
+            "name": "Classic Lined Clog",
+            "price": "2230"
+        },
+        {
+            "id": 2,
+            "description": "What happens when you combine two of Crocs most iconic silhouettes, the Baya and the Crocband™, into one special pair? You get the Bayaband Flip, a style that takes the fashion-athletic spirit of the originals to another level. The result is a go-anywhere style staple that lets you stay cool while throwing off an extra pop of Crocs spirit. And of course, molded Croslite™ construction means you will stay comfortable all day long.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/205393_066_ALT100/crocs",
+            "name": "Bayaband Flip",
+            "price": "1250"
+        },
+        {
+            "id": 3,
+            "description": "We took two of our most iconic clog silhouettes — Baya and Crocband™ — and combined them to create a special pair that elevates the sleek, fashion-athletic spirit of the originals to another level. The result is a go-anywhere style staple that lets you slide in and stay cool while throwing off an extra pop of Crocs spirit.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/205089_4CC_ALT100/crocs",
+            "name": "BAYABAND CLOG",
+            "price": "3200"
+        },
+        {
+            "id": 4,
+            "description": "The look and feel of our comfortable Classic Clog and Crocs Slide, now in sandal form. Two upper straps offer even more comfort and foot security, and seven holes on each shoe allow you to personalize with Jibbitz™ charms. We'll even get you started by including a Crocs logo charm. Original Croslite™ foam cushion will keep you supported from the beach to backyard gatherings and beyond.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/206761_001_ALT100/crocs",
+            "name": "CLASSIC CROCS SANDAL",
+            "price": "7500"
+        },
+        {
+            "id": 5,
+            "description": "It is the iconic clog that started a comfort revolution around the world! The irreverent go-to comfort shoe that you're sure to fall deeper in love with day after day. Crocs Classic Clogs offer lightweight Iconic Crocs Comfort™, a color for every personality, and an ongoing invitation to be comfortable in your own shoes.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/10001_3UH_ALT100/crocs",
+            "name": "CLASSIC CLOG",
+            "price": "2460"
+        },
+        {
+            "id": 6,
+            "description": "You cantt tame those pesky creepers but you can finally get a hold of 'em with this creeper-inspired look that exploding with style. © 2023 Mojang AB. All Rights Reserved. Minecraft, the MINECRAFT logo and the MOJANG STUDIOS logo are trademarks of the Microsoft group of companies",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208470_90H_ALT100/crocs",
+            "name": "Classic Minecraft Slide",
+            "price": "1400"
+        },
+        {
+            "id": 7,
+            "description": "The Echo Collection is for those who want comfort without compromising their look. This fully molded slide is anything but conformist, with bold sculpting and sport inspiration that keeps streetwear at its core. With Croslite™ construction and a LiteRide™ drop-in footbed, you can stay comfortable while hitting the street in the Echo collection.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208170_1FT_ALT100/crocs",
+            "name": "Classic Minecraft Slide",
+            "price": "5999"
+        },
+        {
+            "id": 8,
+            "description": "The Classic Clog gets a seriously eye-catching makeover. Introducing the NBA All Star Mega Crush Clog featuring an enhanced rubber tread, updated detailing around the outsole, a platform ready to take any outfit to the next level, and an all-over select NBA team logo print to show love for your team. Even better, the backstrap and upper are built to be personalized with Jibbitz™ charms.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208469_90H_ALT100/crocs",
+            "name": "NBA™ ALL STAR MEGA CRUSH CLOG",
+            "price": "9000"
+        },
+        {
+            "id": 9,
+            "description": "The Iconic clog that started it all gets a rebellious upgrade with the new Classic Rebel Rising Clog. Featuring a tie-dye graphic and metallic, spikey Jibbitz™ charms and lightweight Iconic Crocs Comfort™, this pair ups the edginess.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208329_928_ALT100/crocs",
+            "name": "CLASSIC REBEL REBEL CLOG",
+            "price": "5500"
+        },
+        {
+            "id": 10,
+            "description": "ravel. Exploration. Adventures near and far. The Classic All-Terrain Clog is ready for it all, even in the harshest environments. With a more rugged outsole and an adjustable turbo strap, the ground beneath your feet has never felt more surmountable. Lightweight Croslite™ construction makes them a practical and packable choice for any outing. Even better, the Realtree Edge® camo pattern will give you just the style edge you seek. Its time to go into all-wheel drive. Flip that strap back and go find your fun!",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/206504_267_ALT100/crocs",
+            "name": "REALTREE EDGE™ ALL-TERRAIN CLOG",
+            "price": "4700"
+        },
+        {
+            "id": 11,
+            "description": "The Crocband™ Collection features original Croslite™ foam construction for reliable cushioned comfort, a sporty design thats easy to step into and out of, and a variety of energy-boosting colors and graphic designs. Show your stripes!",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/11016_410_ALT100/crocs",
+            "name": "CROCBAND™ CLOG",
+            "price": "1950"
+        },
+        {
+            "id": 12,
+            "description": "The iconic clog that started a comfort revolution around the world, now with adorable built-in glitter all over! It's the irreverent, go-to comfort shoe that you're sure to fall deeper in love with day after day. Crocs Classic Clogs feature lightweight, cushioned construction and offer an ongoing invitation to be comfortable in your own shoes. Sparkle on!",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/205942_0C4_ALT100/crocs",
+            "name": "CLASSIC GLITTER CLOG",
+            "price": "2490"
+        },
+        {
+            "id": 13,
+            "description": "Now you can take the popular Baya Clog that so many love straight through the chilly season. The Baya Lined Clog has a plush, fleecy lining to keep toes toasty warm, indoors or out, which makes it a reliable cold-weather comfort shoe.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/205969_11H_ALT100/crocs",
+            "name": "BAYA LINED CLOG",
+            "price": "6399"
+        },
+        {
+            "id": 14,
+            "description": " its your perfect adventure-ready sandal. The rugged tread pattern and rubber pods add traction and support, while the two-strap upper and adjustable turbo backstraps work to keep up with their outdoorsy lifestyle. Seven holes in each sandal allow for personalization with Jibbitz™ charms and a lightweight Croslite™ foam construction makes them a practical choice for any outing. Flip that strap back and go wild.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208063_2UG_ALT100/crocs",
+            "name": "CLASSIC ALL-TERRAIN CAMO SANDAL",
+            "price": "7700"
+        },
+        {
+            "id": 15,
+            "description": "The iconic clog that started a comfort revolution around the world is a do-it-all style that youre sure to fall deeper in love with day after day. This version of the Classic features a variety of graphics to boost your style where its never gone before. Crocs Classic Clogs offer lightweight Iconic Crocs Comfort™, a color for every personality, and an ongoing invitation to be comfortable in your own shoes.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/206868_100_ALT100/crocs",
+            "name": "CLASSIC OUT OF THIS WORLD II CLOG",
+            "price": "3540"
+        },
+        {
+            "id": 16,
+            "description": "Choose your culinary inspiration and serve up some serious comfort with these Bistro Pro Clogs, now available with superb LiteRide™ foam footbeds and bright graphics. Designed with food service, hospitality, and healthcare workers in mind, they’re light and supportive enough to get you through even the longest shifts. Crocs Lock™ slip-resistant treads and extra protection at the toes come together to help you serve up your best.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207110_960_ALT100/crocs",
+            "name": "BISTRO PRO LITERIDE™ GRAPHIC CLOG",
+            "price": "8500"
+        },
+        {
+            "id": 17,
+            "description": "Got sunshine on your mind? The Classic Cozzzy Sandal in Digital Violet will put an extra spring in your step while keeping you snug through those cold winter days. Until spring has sprung, fluff up the fun with the Creative Dye 5-Pack of pom pom Jibbitz™ charms. Not a toy. Not intended for children under 3 years of age.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/product-set-wishing-for-spring-pack_001_ALT100/crocs",
+            "name": "WISHING FOR SPRING PACK",
+            "price": "1000"
+        },
+        {
+            "id": 18,
+            "description": "Do you want to build a snowman? Cozy never looked cuter than with the Classic Lined Neo Puff Boot in White, adorned with the Make Your Own Snowman 5-Pack of Jibbitz™ charms. Not a toy. Not intended for children under 3 years of age",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/product-set-make-your-own-snowman-pack_001_ALT100/crocs",
+            "name": "MAKE YOUR OWN SNOWMAN PACK",
+            "price": "2100"
+        },
+        {
+            "id": 19,
+            "description": "Our striking Mega Crush Sandal gets a casual new look! The Classic Mega Crush Denim Sandal. Featuring a denim print, eye-catching silhouette, rugged tread, and room for Jibbitz™ charms, this pair is destined to be just as popular as your favorite pair of jeans.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208248_94S_ALT100/crocs",
+            "name": "MEGA CRUSH DENIM SANDAL",
+            "price": "9999"
+        },
+        {
+            "id": 20,
+            "description": "The new Classic Cozzzy Sandal features a soft, fuzzy liner, style-forward heightened outsoles and two upper straps that offer enhanced foot security. Seven holes on each sandal allow for maximum personalization with Jibbitz charms, while Croslite foam construction keeps them light and easy to wear.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208118_6TS_ALT100/crocs",
+            "name": "CLASSIC COZZZY TIE DYE GRAPHIC SANDAL",
+            "price": "2999"
+        },
+        {
+            "id": 21,
+            "description": "he Classic that started a comfort revolution around the world is a do-it-all style that you’re sure to fall deeper in love with day after day. Boot up in a new graphic lined version featuring a lined tie-dye nylon funnel neck so you get the best of both worlds — Classic with a boot look. Lifelong wardrobe staples beloved by millions of all ages, Crocs Classic Clogs offer lightweight comfort, a color for every personality, and an ongoing invitation to be comfortable in your own shoes.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207328_001_ALT100/crocs",
+            "name": "CLASSIC LINED NEO PUFF TIE DYE BOOT",
+            "price": "8900"
+        },
+        {
+            "id": 22,
+            "description": "The comfortable Classic Crocs Sandal now sports our new marbled Croslite™ material that creates a fun, colorful effect. While all marbled sandals have the same wavy look, no two are exactly alike. Enjoy iconic Crocs comfort and stylish design in this unique casual sandal thats perfect for everyday wear.",
+            "image": "https://www.crocs.com/on/demandware.static/Sites-crocs_us-Site/-/default/dwb3ba8b9e/images/tempHero.png",
+            "name": "CLASSIC CROCS MARBLED SANDAL",
+            "price": "4670"
+        },
+        {
+            "id": 23,
+            "description": "The Crocs Mens Walu Slip-On is a comfy update to the classic loafer. The added comfort comes from a removable microfiber insert that offers more cushion and provides ventilation for more comfortable wear, whether rain or shine.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/11270_23G_ALT100/crocs",
+            "name": "MENS WALU SLIP-ON",
+            "price": "6800"
+        },
+        {
+            "id": 24,
+            "description": "Sporty and lightweight with the signature athletic stripe, the Crocband™ Flip is a colorful and incredibly comfortable warm-weather choice. Constructed of cushy, easy-to-clean Croslite™ foam material, its ready for the beach, the garden or anywhere else you choose to get your flip on! This seasons version has a variety of graphics, featuring bold Crocs logos and camo and tropical floral prints.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/205943_83B_ALT100/crocs",
+            "name": "CROCBAND™ PRINTED FLIP",
+            "price": "999"
+        },
+        {
+            "id": 25,
+            "description": "The soft, fuzzy liner adds to the cushion and comfort, indoors or out and is now even more stylish with a bleach tie-dye graphic. Croslite™ foam construction keeps them light and easy to wear. The pivoting heel strap gives you a secure fit, or push it forward to just step in and go.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207299_001_ALT100/crocs",
+            "name": "CLASSIC LINED BLEACH DYE CLOG",
+            "price": "3250"
+        }
+    ],
+    "womens": [
+        {
+            "id": 1,
+            "description": "Lisa Frank x Crocs clogs are the pair to wear when you are craving some color. Each shoe is decked out in signature Lisa Frank designs and includes a whimsical and wonderful collection Jibbitz™ charms.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207736_573_ALT100/crocs",
+            "name": "CLASSIC LISA FRANK CLOG",
+            "price": "2900"
+        },
+        {
+            "id": 2,
+            "description": " Baya and Crocband™ — and combined them to create a special pair that elevates the sleek, fashion-athletic spirit of the originals to another level. The result is a go-anywhere style staple that lets you slide in and stay cool while throwing off an extra pop of Crocs spirit.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/205089_6TG_ALT100/crocs",
+            "name": "BAYABAND CLOG",
+            "price": "2100"
+        },
+        {
+            "id": 3,
+            "description": "Light in weight and big on comfort. The Womens Kadee Flat is a ballerina-inspired shoe featuring classic form-to-foot Croslite™ construction and easy slip-on style.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/11215_060_ALT100/crocs",
+            "name": "Womens Kadee Flat",
+            "price": "1400"
+        },
+        {
+            "id": 4,
+            "description": "Brooklyns lightweight construction, intuitive upper straps and revolutionary comfort technology allow you to move confidently from work to play, up or downtown, without a fuss. When you can look fabulous and stay light on your feet from the days first step to the last.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/206219_060_ALT100/crocs",
+            "name": "Womens Crocs Brooklyn Mid Wedge",
+            "price": "3100"
+        },
+        {
+            "id": 5,
+            "description": "Feel the warmth and joy of summer all year long with the new Crocs Tulum Collection of sandals and flats. This style features flexible Matlite™ straps with an adjustable buckle, and soft TPU toe posts feel good as you jaunt around town. Dress it up or dress it down — whatever you choose, youll feel pretty, elegant and summery no matter the weather. Enjoy!",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/206108_93O_ALT100/crocs",
+            "name": "Women's Crocs Tulum Toe Post Sandal",
+            "price": "4400"
+        },
+        {
+            "id": 6,
+            "description": "Elevate your style and experience with this holiday styled pack. This set includes a Classic Hemp Leaf Clog, Hemp Jibbitz™ charm, and our Holiday Hemp Crew Socks.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/product-set-holidaze-pack_001_ALT100/crocs",
+            "name": "HOLIDAZE PACK",
+            "price": "2000"
+        },
+        {
+            "id": 7,
+            "description": "Snuggle up after a long day of exploring with the Adventure Pack. This set includes a pair of the Classic Cozzzy Sandals and a 5-Pack of Jibbitz™ charms that are inspired by getting outside.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/product-set-adventure-pack_001_ALT100/crocs",
+            "name": "ADVENTURE PACK",
+            "price": "1999"
+        },
+        {
+            "id": 8,
+            "description": "The new Classic Mega Crush Realtree® Sandal features an authentic Realtree® Edge Colors camoflouge print, a two-strap upper, a platform design and enhanced rubber treads. Did we mention there is room for Jibbitz™ charms? Your next crush is ready to stand out… not blend in.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208250_2Y2_ALT100/crocs",
+            "name": "Classic Mega Crush Realtree Sandal",
+            "price": "4000"
+        },
+        {
+            "id": 9,
+            "description": "Night vibes shine all day with the 7-Eleven X Crocs Classic Clog. Featuring a collection of crave-worthy custom 7-Eleven Jibbitz™ charms you will always feel stylish in these boldly striped icons. Sweet, salty, iconic.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208272_001_ALT100/crocs",
+            "name": "7Eleven X Crocs Classic Clog",
+            "price": "4800"
+        },
+        {
+            "id": 10,
+            "description": "Ted Lasso Jibbitz™ charms will give you something to believe in. Sport some positive vibes on your Crocs with all 5 charms and feel like you are part of the team.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/product-set-ted-lasso-pack_001_ALT100/crocs",
+            "name": "TED LASSO PACK",
+            "price": "2200"
+        },
+        {
+            "id": 11,
+            "description": "This boot is functional for rain, but versatile for any occasion, with year-round appeal for those looking for bold, unique, iconic style. Part of the Crush collection, this dynamic new boot features a unique glitter treatment, modern style, added height, and trend-right, easy to wear shaft height. Plus, Jibbitz™ holes on the shaft collar makes it easy to personalize. The Crocs comfort you love, in a waterproof boot, with an extra dose of height, attitude, and glittery style.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208264_1FT_ALT100/crocs",
+            "name": "Crush Glitter Boot",
+            "price": "3540"
+        },
+        {
+            "id": 12,
+            "description": "Elevate your everyday with the new Mega Crush Clog in black. You be looking as good as gold with the Elevated Chill 5-Pack and Elevated Gold Girl 5-Pack of Jibbitz™ charms. Not a toy. Not intended for children under 3 years of age.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/product-set-festival-bundle-pack_001_ALT100/crocs",
+            "name": "FESTIVAL BUNDLE PACK",
+            "price": "3470"
+        },
+        {
+            "id": 13,
+            "description": "Be the sunshine when skies are grey with the Rain or Shine Pack. This colorful set includes our new Crush Boot in Fuchsia Fun, paired with our 3-pack Twisted Yarn Crew Socks to keep your feet extra warm and dry. Dont forget the flair with our Fun Trend 5-pack of Jibbitz™ charms",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/product-set-rain-or-shine-pack_001_ALT100/crocs",
+            "name": "RAIN OR SHINE PACK",
+            "price": "2400"
+        },
+        {
+            "id": 14,
+            "description": "Take a walk on the wild side with the new Furever Crush Clog. Step up the glam factor with Animal Crew Socks and top it off with the Wild And Elevated 5-Pack of Jibbitz™ charms. Not a toy.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/product-set-get-wild-pack_001_ALT100/crocs",
+            "name": "GET WILD PACK",
+            "price": "3600"
+        },
+        {
+            "id": 15,
+            "description": "For a fresh new take on your favorite clog, look to the Classic Crush Clog — and this version features fashionable butterfly graphics and dynamic style. Added height, a bold design, and colorful graphics combine in this stylish clog. Plus, youll enjoy many personalization options, with Jibbitz™ charm holes on the upper and the pivoting backstrap. The Crocs comfort you love, plus an extra dose of height, attitude, and style.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208258_94S_ALT100/crocs",
+            "name": "CRUSH BUTTERFUL CLOG",
+            "price": "3800"
+        },
+        {
+            "id": 16,
+            "description": "The Stance X B. Thom X Crocs Classic Clog is covered from heel to toe in B. Thom high-contrast, hand-painted aesthetic. Inspired by his grandmotherquilts and the organic floral patterns they contain, B. Thom wanted to make these Classics stand out—even in a garden blooming with flowers or uncut grass. A firm believer in bringing the art studio out with you to wherever you might be, his custom Jibbitz™ charms are functional tools for the plein-air painter in all of us.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207941_90H_ALT100/crocs",
+            "name": "Stance BT X Crocs Classic Clog",
+            "price": "4700"
+        },
+        {
+            "id": 17,
+            "description": "Satisfy your cravings for something sweet! This pack features a pair of Womens Classic Platform Glitter Clogs and a 5-pack of Jibbitz™ charms featuring candy, treats, a rainbow, and a unicorn.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/product-set-everything-is-sweet-pack_001_ALT100/crocs",
+            "name": "EVERYTHING IS SWEET PACK",
+            "price": "1800"
+        },
+        {
+            "id": 18,
+            "description": "Actually, the perfect winter boot does exist. With a fully fuzz-lined interior, puffy insulation around the ankle, adjustable lace detailing, and a sawtooth outsole for added traction, youll be more than ready to weather the cold winter months. Plus, this new style is, well, stylish. It available in a variety of colorways and accommodates two Jibbitz™ charms for added personalization. This boot is sure to be your new favorite.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207312_1CR_ALT100/crocs",
+            "name": "Women's Classic Neo Puff Luxe Boot",
+            "price": "5500"
+        },
+        {
+            "id": 19,
+            "description": "Elevated design, a unique ombre graphic and classic comfort come to life in the Womens Classic Platform Ombre Clog. This shoe features an ombre graphic on the midsole, along with a heightened, contoured outsole that supports the classic upper. Plus, the customizable backstrap also holds Jibbitz™ charms, so you can personalize your look even more. Show off your creative spirit with the Womens Classic Platform Ombre Clog.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208278_1FR_ALT100/crocs",
+            "name": "Womens Classic Platform Ombre Clog",
+            "price": "2600"
+        },
+        {
+            "id": 20,
+            "description": "Effortless style, superior all-day comfort and ultimate wardrobe versatility come together in the Crocs Brooklyn Collection. Featuring innovative LiteRide™ foam technology inside — because you should never have to choose between looking and feeling your best. Snake print straps and low wedge height offer added style and versatility. Crocs Brooklyns lightweight construction, intuitive upper straps and revolutionary comfort technology allow you to move confidently from work to play without a fuss.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208244_1FR_ALT100/crocs",
+            "name": "Brooklyn Snake Print Buckle Low Wedge",
+            "price": "3700"
+        },
+        {
+            "id": 21,
+            "description": "Spring showers call for colorful Jibbitz™ flowers! Step up to the season in the Classic Platform Ombre Slide and let your style bloom.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/product-set-spring-flowers-pack_001_ALT100/crocs",
+            "name": "SPRING FLOWERS PACK",
+            "price": "3100"
+        },
+        {
+            "id": 22,
+            "description": "Our Classic Clog has evolved to bring you some of your all-time favorite Pokémon! Explore rocky terrains, grassy landscapes, and even regions surrounded by water with Pikachu, Bulbasaur, Charmander and Squirtle. Designed with Iconic Crocs Comfort™ for you to enjoy every step of your adventure. ©2022 Pokémon / Nintendo / Creatures / GAME FREAK.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207765_94S_ALT100/crocs",
+            "name": "Classic Pokemon II Clog",
+            "price": "4200"
+        },
+        {
+            "id": 23,
+            "description": "Unwind on island time in the Classic Margaritaville Clog. Each tropical pair is swirled with a marble motif and topped with iconic Jibbitz™ charms including ice cubes, a zesty lime wedge, a real bottle opener and, of course, a lost shaker of salt. Slip on your clogs, then kick back and relax in paradise.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207369_3U4_ALT100/crocs",
+            "name": "CLASSIC MARGARITAVILLE CLOG",
+            "price": "4300"
+        },
+        {
+            "id": 24,
+            "description": "For a fresh new take on your favorite sandal, look to the Classic Crush Sandal — and this version features fashionable butterfly graphics and dynamic style. Added height, a bold design, and colorful graphics combine in this stylish sandal. Youll also enjoy the popular and versatile two-strap design, plus Jibbitz™ holes on the sandal straps for personalization. The Crocs comfort you love, plus an extra dose of height, attitude, and style.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208247_94S_ALT100/crocs",
+            "name": "CRUSH BUTTERFLY SANDAL",
+            "price": "3500"
+        },
+        {
+            "id": 25,
+            "description": "Effortless style, superior all-day comfort and ultimate wardrobe versatility come together in the Crocs Brooklyn Collection. Available in a variety of heel heights and sophisticated yet simple silhouettes, each wedge features sensationally comfortable LiteRide™ foam technology inside — because you should never have to choose between looking and feeling your best. Crocs Brooklyns lightweight construction, intuitive uppers and revolutionary comfort technology allow you to move confidently from work to play, up or downtown, without a fuss.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208727_2Y2_ALT100/crocs",
+            "name": "Brooklyn Flip",
+            "price": "1999"
+        }
+    ],
+    "kids": [
+        {
+            "id": 1,
+            "description": "Easy on, easy off! Just like the adult Classic, the kids version offers amazing comfort and support, thanks to the light, durable Croslite™ material and molded design. Kids can customize their Crocs™ clog however they like; ventilation holes accommodate Jibbitz™ brand charms.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/206991_001_ALT100/crocs",
+            "name": "Kids' Classic Clog",
+            "price": "2100"
+        },
+        {
+            "id": 2,
+            "description": "Sssssss...Boom! You cant tame those pesky creepers but you can finally get a hold of 'em with this creeper-inspired look thats exploding with style. © 2023 Mojang AB. All Rights Reserved. Minecraft, the MINECRAFT logo and the MOJANG STUDIOS logo are trademarks of the Microsoft group of companies.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208320_90H_ALT100/crocs",
+            "name": "Kids' Classic Minecraft Clog",
+            "price": "2500"
+        },
+        {
+            "id": 3,
+            "description": "Step into adventure mode with Minecraft x Crocs, built from the ground up and brought to life for real-world escapades. © 2023 Mojang AB. All Rights Reserved. Minecraft, the MINECRAFT logo and the MOJANG STUDIOS logo are trademarks of the Microsoft group of companies.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208473_90H_ALT100/crocs",
+            "name": "Kids' Minecraft Elevated Clog",
+            "price": "1400"
+        },
+        {
+            "id": 4,
+            "description": "Brighter than ever and bursting with personality, our limited-edition Lisa Frank x Crocs clogs are the pair to wear when you are craving some color. Each shoe is decked out in signature Lisa Frank designs and includes a whimsical and wonderful collection Jibbitz™ charms.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207737_4SM_ALT100/crocs",
+            "name": "Kids' Classic Lisa Frank Clog",
+            "price": "2200"
+        },
+        {
+            "id": 5,
+            "description": "Your little Pokémon Trainer can now step into a world of adventure with familiar friends, Pikachu, Bulbasaur, Charmander, and Squirtle. These Classic Clogs come with a Pokémon logo Jibbitz™ charm for a super effective style. ©2022 Pokémon / Nintendo / Creatures / GAME FREAK.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207739_94S_ALT100/crocs",
+            "name": "Kids' Classic Pokemon Clog",
+            "price": "1500"
+        },
+        {
+            "id": 6,
+            "description": "Easy on, easy off! Just like the adult Classic, the kids version offers amazing comfort and support, thanks to the light, durable Croslite material and molded design. This unique Marvel Avengers clog features an exciting all-over graphic theyll love, plus a collection of Avengers-themed Jibbitz charms. Your little superheroes will want to wear these every single day.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207721_001_ALT100/crocs",
+            "name": "Kids' Classic Marvel Avengers Clog",
+            "price": "2200"
+        },
+        {
+            "id": 7,
+            "description": "This toasty lined version of the Kids Classic Clog with a unique Valentines Day treatment will keep your feet feeling cozy and stylish. Features a glitter treatment and red fuzzy liner. The soft, fuzzy liner adds to the cushion and comfort, indoors or out, and Croslite™ foam construction keeps them light and easy to wear.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208354_6EN_ALT100/crocs",
+            "name": "Kids Classic Lined Pink Glitter Clog",
+            "price": "2300"
+        },
+        {
+            "id": 8,
+            "description": "Does your little one love all things KA-CHOW? If so, this Cars Lights Band Clog from Disney and Pixar will be sure to have them on the fast track to playtime victory! Crocs Fun Lab styles feature original character-rich graphics and other inspired designs to help kids express themselves and engage new friends, resulting in more fun for the little ones.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207719_8C1_ALT100/crocs",
+            "name": "Toddler Fun Lab Disney Pixar Cars Lights Band Clog",
+            "price": "3000"
+        },
+        {
+            "id": 9,
+            "description": "The perfect footwear for any outdoorsy kid! This soft, lightweight clog gets the Realtree® camouflage treatment. Made with light, supportive Croslite™ foam, the orthotic footbeds promise long-lasting comfort. Whether the kids are hanging out in camp or running around the house, theyll love the support and ease of these clogs.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207093_260_ALT100/crocs",
+            "name": "Kids' Classic Realtree® Clog",
+            "price": "2400"
+        },
+        {
+            "id": 10,
+            "description": "Little ones who are into Peppa Pig will love these colorful and fun clogs. Crocs Fun Lab styles feature original character-rich graphics and other inspired designs to help kids express themselves and engage new friends, resulting in more fun for the little ones.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207915_530_ALT100/crocs",
+            "name": "Toddler Classic Peppa Pig Clog",
+            "price": "1800"
+        },
+        {
+            "id": 11,
+            "description": "The Echo Collection is for those who want comfort without compromising their look. This fully molded style is anything but conformist, with bold sculpting and sport inspiration that keeps streetwear at its core. With marbled, lightweight Croslite™ construction, kids can stay comfortable while staying stylish in the Echo collection.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208466_2Y3_ALT100/crocs",
+            "name": "Toddler Echo Marbled Clog",
+            "price": "3500"
+        },
+        {
+            "id": 12,
+            "description": "The Classic All-Terrain Marbled Sandal is ready for travel, exploration and adventure, even in the harshest of environments. This rugged sandal now features our new marbled Croslite material that creates a unique, colorful effect. While all marbled shoes have the same wavy look, no two shoes are exactly alike. The tread pattern and rubber pods add traction and support, while the two-strap upper and adjustable turbo backstraps make them a practical choice for any outing. Seven holes in each sandal allow for personalization with Jibbitz charms. Flip that strap back and go wild.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207870_0DA_ALT100/crocs",
+            "name": "Kids' Classic All-Terrain Marbled Sandal",
+            "price": "2500"
+        },
+        {
+            "id": 13,
+            "description": "Sport your Wakanda Forever style in the Classic All-Terrain Black Panther Clog that is set to take you on any adventure. The oversized Jibbitz™ charms pay tribute to the new film and adjustable backstraps keep you secure no matter where you venture. This rugged style will take the throne as your new favorite pair.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208019_90H_ALT100/crocs",
+            "name": "Kids' Black Panther™ All-Terrain Clog",
+            "price": "2700"
+        },
+        {
+            "id": 14,
+            "description": "We created an elevated, flatform version of our Classic icon for kids. Introducing the Classic Crocs Cutie Clog, featuring a heightened, flatform outsole that supports the upper you know and love, an updated tread and a customizable backstrap built for Jibbitz™ charms. Give your kiddo a little boost with the Classic Crocs Cutie Clog.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208116_90H_ALT100/crocs",
+            "name": "Kids' Rainbow High™ Cutie Crush Clog",
+            "price": "4500"
+        },
+        {
+            "id": 15,
+            "description": "Baby shark, doo doo, doodoo doodoo! Kids who love the Baby Shark song will love these clogs from the Fun Lab, featuring the whole shark family on the band. Crocs Fun Lab clogs and sandals feature original character-rich graphics and other inspired designs to help kids express themselves and engage new friends. Step into more fun with a new pair from the Fun Lab!",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207066_4JL_ALT100/crocs",
+            "name": "Toddler Crocs Fun Lab Baby Shark Band Clog",
+            "price": "2600"
+        },
+        {
+            "id": 16,
+            "description": "A decade after their introduciton, the Minions are still popular no matter how old or young. Crocs Fun Lab styles feature original character-rich graphics and other inspired designs to help kids express themselves and engage new friends, resulting in more fun for the little ones.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207461_730_ALT100/crocs",
+            "name": "Kids' Fun Lab I Am Minions Clog",
+            "price": "3100"
+        },
+        {
+            "id": 17,
+            "description": "It is the iconic clog that started a comfort revolution around the world, now with fashionable butterfly graphics on the uppers. Crocs Classic Clogs offer lightweight Iconic Crocs Comfort™, a print for every personality, and an ongoing invitation to be comfortable in your own shoes.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208297_5Q7_ALT100/crocs",
+            "name": "Kids Classic Butterfly Clog",
+            "price": "1999"
+        },
+        {
+            "id": 18,
+            "description": "Batman returns to save the day on this new clog! Crocs Fun Lab styles feature original character-rich graphics and other inspired designs to help kids express themselves and engage new friends, resulting in more fun for the little ones.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207470_410_ALT100/crocs",
+            "name": "Kids' Fun Lab Batman Patch Clog",
+            "price": "3210"
+        },
+        {
+            "id": 19,
+            "description": "Enjoy the comfortable Classic Crocs Sandal now available in a stunning glitter treatment to help your favorite looks stand out. Original Croslite™ foam cushion will keep you comfortably supported as shiny glitter boosts your style.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207788_5Q6_ALT100/crocs",
+            "name": "Kids' Classic Crocs Glitter Sandal",
+            "price": "1400"
+        },
+        {
+            "id": 20,
+            "description": "Like a kid in a candy store, Jojo Siwa fans can wear a bow on their shoes with this bubbly pack. Get this exclusive set while you can! © 2021 VIACOM INTERNATIONAL INC. All Rights Reserved Jibbitz™ charms are not a toy.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/product-set-jojo-siwa-pack_001_ALT100/crocs",
+            "name": "JOJO SIWA PACK",
+            "price": "1500"
+        },
+        {
+            "id": 21,
+            "description": "Theres a little bit of athletic spirit taken from the Crocband™ styles underpinning these easy-to-learn and fun-to-wear sandals. Adjustable hook-and-loop ankle straps make it easy for kids to put them on and take them off while providing a secure fit. And, of course, molded Croslite™ construction means theyll stay comfortably supported from breakfast to bedtime.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/205400_6TG_ALT100/crocs",
+            "name": "KIDS BAYABAND SANDAL",
+            "price": "2400"
+        },
+        {
+            "id": 22,
+            "description": "Sport your Wakanda Forever style in the Classic All-Terrain Black Panther Sandal that is set to take you on any adventure. An all-over graphic pattern and oversized Jibbitz™ charms pay tribute to the new film and adjustable backstraps keep you secure no matter where you venture. This rugged style will take the throne as your new favorite pair.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208020_90H_ALT100/crocs",
+            "name": "KIDS' BLACK PANTHER™ ALL-TERRAIN SANDAL",
+            "price": "2500"
+        },
+        {
+            "id": 23,
+            "description": "Easy on, easy off! Just like the adult Classic, the kids version offers amazing comfort and support, thanks to the light, durable Croslite™ material and molded design. Kids can customize their Crocs™ clog however they like; ventilation holes accommodate Jibbitz™ brand charms.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208107_93R_ALT100/crocs",
+            "name": "Kids' Classic Rainbow Dye Clog",
+            "price": ""
+        },
+        {
+            "id": 24,
+            "description": "he Classic that started a comfort revolution around the world is a do-it-all style that youre sure to fall deeper in love with day after day. Boot up in a new lined version featuring a lined nylon funnel neck so you get the best of both worlds — Classic with a boot look. And this version features a colorful spray dye graphic. Lifelong wardrobe staples beloved by millions of all ages, Crocs Classic Clogs offer lightweight comfort, a color for every personality, and an ongoing invitation to be comfortable in your own shoes.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/208082_94S_ALT100/crocs",
+            "name": "KIDS' CLASSIC LINED SPRAY DYE NEO PUFF BOOT",
+            "price": "3999"
+        },
+        {
+            "id": 25,
+            "description": "The perfect winter boot for kids does exist. With a fuzz-lined interior, puffy insulation around the ankle, and a grippy outsole for added traction, this boot makes it easy to weather the cold winter months. Plus, its fun to personalize with Jibbitz™ charms. This cozy winter boot is sure to be a new favorite.",
+            "image": "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/207684_007_ALT100/crocs",
+            "name": "KIDS' CLASSIC NEO PUFF BOOT",
+            "price": "5500"
+        }
+    ]
+}
