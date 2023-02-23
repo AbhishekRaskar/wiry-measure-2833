@@ -1,3 +1,4 @@
+/* Home CSS */
 .main {
     display: flex;
     justify-content: space-evenly;
@@ -34,5 +35,173 @@
 .icons {
     display: flex;
     justify-content: space-around;
-    width: 9%;
+    width: 11%;
+    font-size: 20px;
+}
+
+.Cards {
+    display: flex;
+    justify-content: space-evenly;
+    width: 70%;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.Cards img {
+    width: 90%;
+    border-radius: 7px;
+}
+
+.bigImg {
+    width: 100%;
+    height: 500px;
+}
+
+.bigImg2 {
+    width: 80%;
+    height: 400px;
+}
+
+.footer {
+
+    color: white;
+    background-color: black;
+
+}
+
+.footer>div {
+
+    /* border: 1px solid red; */
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer>div>div {
+    margin-left: 10px;
+    display: flex;
+    margin-top: 10px;
+    /* border: 1px solid teal; */
+}
+
+.footer button {
+    width: 50%;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 5px;
+    margin: auto;
+}
+.footer button:hover {
+    color: white;
+    background-color: black;
+    border: 3px solid white;
+}
+
+.app {
+    width: 60%;
+    margin-top: 20px;
+
+}
+
+.four>div {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+
+.four a:hover {
+    color: teal;
+    text-decoration: underline;
+}
+
+/* for small */
+@media screen and (min-width :380px) and (max-width:640px) {
+    .main {
+        flex-direction: column;
+    }
+
+    .menubar {
+        display: none;
+    }
+
+    .search>input {
+        display: none;
+    }
+
+    .four {
+        flex-direction: column;
+    }
+
+    .footer>div>div {
+        flex-direction: column;
+    }
+}
+
+/* for medium */
+@media screen and (min-width :641px) and (max-width:1000px) {
+    .main {
+        flex-direction: column(2, 1fr);
+    }
+
+    .search>input {
+        display: none;
+    }
+
+    .menubar {
+        display: none;
+    }
+
+    .four {
+        flex-direction: column;
+    }
+
+    .footer>div>div {
+        flex-direction: column;
+    }
+}
+
+/* for desktop */
+@media screen and (min-width :1000px) {
+    .hamburger {
+        display: none;
+    }
+
+    .lens {
+        display: none;
+        font-size: 20px;
+        margin-top: 7px;
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* HomeNav CSS */
+.menubar1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    background-color: aquamarine;
+    /* background-color: chocolate; */
+}
+
+.main1 {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    height: 68px;
+    background-color: white;
+    align-items: center;
+    margin: auto;
 }

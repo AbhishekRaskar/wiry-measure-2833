@@ -3,7 +3,7 @@ import React from 'react'
 const Mens = () => {
   return (
     <div>
-      I am Men
+      <h1>Welcome to Mens Page</h1>
     </div>
   )
 }
