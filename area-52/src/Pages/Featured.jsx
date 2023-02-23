@@ -3,7 +3,7 @@ import React from 'react'
 const Featured = () => {
   return (
     <div>
-      i'm Featured
+      <h1>Welcome to Featured Page</h1>
     </div>
   )
 }

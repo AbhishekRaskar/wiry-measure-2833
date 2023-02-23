@@ -3,7 +3,7 @@ import React from 'react'
 const Kids = () => {
   return (
     <div>
-      I'm kid page
+     <h1>Welcome to kid page</h1>
     </div>
   )
 }

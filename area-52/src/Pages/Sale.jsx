@@ -3,7 +3,7 @@ import React from 'react'
 const Sale = () => {
   return (
     <div>
-      I'm Sale
+      <h1>Welcome to Sales Page</h1>
     </div>
   )
 }
