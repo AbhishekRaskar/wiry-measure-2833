@@ -12,7 +12,7 @@ const links = [
     { to: "/womens", name: "WOMENS" },
     { to: "/kids", name: "KIDS" },
     { to: "/sale", name: "SALE" },
-    //   { to: "/featured", name: "FEATURED" },
+    // { to: "/featured", name: "FEATURED" },
 ]
 const active = { color: "red", textDecoration: "none" }
 const deactive = { color: "black", textDecoration: "none" }

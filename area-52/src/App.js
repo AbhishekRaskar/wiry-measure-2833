@@ -1,7 +1,7 @@
 import './CSS/App.css';
 import Navbar from './component/Navbar';
 import AllRoutes from './component/AllRoutes';
-
+// import Form from './Pages/Form';
 
 function App() {
   return (
@@ -10,6 +10,7 @@ function App() {
       <Navbar />
       <hr />
       <AllRoutes />
+      {/* <Form /> */}
     </div>
   );
 }

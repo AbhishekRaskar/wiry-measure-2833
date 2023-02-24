@@ -37,11 +37,12 @@
     justify-content: space-around;
     width: 11%;
     font-size: 20px;
+
 }
 
 .Cards {
-    display: flex;
-    justify-content: space-evenly;
+    display: grid;
+   grid-template-columns: repeat(6,1fr);
     width: 70%;
     margin: auto;
     margin-top: 15px;
@@ -91,7 +92,9 @@
     margin-top: 20px;
     border-radius: 5px;
     margin: auto;
+    font-weight: bold;
 }
+
 .footer button:hover {
     color: white;
     background-color: black;
@@ -136,44 +139,50 @@
     .footer>div>div {
         flex-direction: column;
     }
-}
 
-/* for medium */
-@media screen and (min-width :641px) and (max-width:1000px) {
-    .main {
-        flex-direction: column(2, 1fr);
-    }
-
-    .search>input {
-        display: none;
-    }
-
-    .menubar {
-        display: none;
-    }
-
-    .four {
-        flex-direction: column;
-    }
-
-    .footer>div>div {
-        flex-direction: column;
+    .Cards {
+        grid-template-columns: repeat(2,1fr);
     }
 }
+    /* for medium */
+    @media screen and (min-width :641px) and (max-width:1000px) {
+        .main {
+            flex-direction: column(2, 1fr);
+        }
 
-/* for desktop */
-@media screen and (min-width :1000px) {
-    .hamburger {
-        display: none;
+        .search>input {
+            display: none;
+        }
+
+        .menubar {
+            display: none;
+        }
+
+        .four {
+            flex-direction: column;
+        }
+
+        .footer>div>div {
+            flex-direction: column;
+        }
+        .Cards {
+            grid-template-columns: repeat(3,1fr);
+        }
     }
 
-    .lens {
-        display: none;
-        font-size: 20px;
-        margin-top: 7px;
+    /* for desktop */
+    @media screen and (min-width :1000px) {
+        .hamburger {
+            display: none;
+        }
 
+        .lens {
+            display: none;
+            font-size: 20px;
+            margin-top: 7px;
+
+        }
     }
-}
 
 
 
@@ -186,22 +195,22 @@
 
 
 
-/* HomeNav CSS */
-.menubar1 {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    width: 100%;
-    background-color: aquamarine;
-    /* background-color: chocolate; */
-}
+    /* HomeNav CSS */
+    .menubar1 {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        background-color: aquamarine;
+        /* background-color: chocolate; */
+    }
 
-.main1 {
-    display: flex;
-    justify-content: space-evenly;
-    width: 50%;
-    height: 68px;
-    background-color: white;
-    align-items: center;
-    margin: auto;
-}
+    .main1 {
+        display: flex;
+        justify-content: space-evenly;
+        width: 50%;
+        height: 68px;
+        background-color: white;
+        align-items: center;
+        margin: auto;
+    }
