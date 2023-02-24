@@ -1,8 +1,8 @@
 import React from 'react'
 import HomeNav from '../component/HomeNav'
 import "../CSS/navbar.css"
-import { MdLocalShipping } from "react-icons/md";
-import { VscPackage, VscWorkspaceTrusted } from "react-icons/vsc";
+// import { MdLocalShipping } from "react-icons/md";
+// import { VscPackage, VscWorkspaceTrusted } from "react-icons/vsc";
 
 
 const Home = () => {
