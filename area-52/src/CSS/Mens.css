@@ -1,22 +1,21 @@
-/* .side{
-    display: grid;
-    grid-template-columns: repeat(1,1fr);
-} */
-
-
-
-
-
-
-
-
-
-
+.main{
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+}
+.btn{
+    padding: 10px;
+    margin: 5px;
+    /* font-weight: bold; */
+}
 .sidebar {
-    width: 20%;
+    width: 30%;
     height: auto;
     padding: 10px;
+    border: 2px solid red;
+    margin: auto;
 }
+
 
 .sidebar select {
     padding: 5px;
@@ -25,11 +24,15 @@
 }
 
 .prod {
-    width: 75%;
-    height: 100vh;
-    background-color: red;
+    width: 100%;
+    /* height: 100vh; */
+    /* background-color: red; */
+    margin-top: auto;
+    border: 2px solid teal;
 }
-
+.prod img{
+    width: 70%;
+}
 
 .grid {
     display: grid;
