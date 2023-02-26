@@ -12,7 +12,7 @@
     width: 30%;
     height: auto;
     padding: 10px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     margin: auto;
 }
 
@@ -28,7 +28,7 @@
     /* height: 100vh; */
     /* background-color: red; */
     margin-top: auto;
-    border: 2px solid teal;
+    /* border: 2px solid teal; */
 }
 .prod img{
     width: 70%;
@@ -85,6 +85,6 @@
 }
 
 .shadow:hover {
-    border: 2px solid teal;
+    /* border: 2px solid teal; */
     cursor: pointer;
 }

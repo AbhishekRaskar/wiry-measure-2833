@@ -9,7 +9,7 @@ import {
 import axios from "axios"
 import "../CSS/Mens.css"
 import { useState, useReducer, useEffect } from 'react'
-import ProductsCard from '../component/ProductsCard';
+import ProductCard from '../component/ProductsCard';
 import { useSearchParams } from 'react-router-dom'
 
 const getCurrentPageUrl = (value) => {
@@ -73,15 +73,15 @@ const Mens = () => {
 
   useEffect(() => {
     let apiUrl;
-    if (orderBy) {
-      apiUrl = `http://localhost:8080/mens?_page=${page}&_limit=${limit}&_sort=${sort}&_order=${orderBy}`;
-    }
-    else if (filterBy) {
-      apiUrl = `http://localhost:8080/mens?_page=${page}&_limit=${limit}&_sort=${sort}&_order=${orderBy}&catagory=${filterBy}`;
-    }
-    else {
-      apiUrl = `http://localhost:8080/mens?_page=${page}&_limit=${limit}`
-    }
+    // if (orderBy) {
+    //   apiUrl = `http://localhost:8080/mens?_page=${page}&_limit=${limit}&_sort=${sort}&_order=${orderBy}`;
+    // }
+    // else if (filterBy) {
+    //   apiUrl = `http://localhost:8080/mens?_page=${page}&_limit=${limit}&_sort=${sort}&_order=${orderBy}&catagory=${filterBy}`;
+    // }
+    // else {
+    apiUrl = `http://localhost:8080/mens?_page=${page}&_limit=${limit}`
+    // }
 
     setLoading(true);
     dispatch({ type: "Request" });
@@ -110,7 +110,7 @@ const Mens = () => {
 
 
   return (
-    <>
+    <div>
       <Box className='main'>
 
         <Box className='sidebar'>
@@ -217,7 +217,7 @@ const Mens = () => {
               products?.length &&
               products.map((e) => (
                 <GridItem key={e.id}>
-                  <ProductsCard
+                  <ProductCard
                     //style={{ marginTop: '40px', textAlign: 'left' }}
                     id={e.id}
                     image={e.image}
@@ -230,22 +230,16 @@ const Mens = () => {
               ))}
           </SimpleGrid>
           <Box style={{ marginTop: '50px' }}>
-          <Button isDisabled={page <= 1} onClick={() => setPage(page - 1)}>Prev</Button>
-          <Button>{page}</Button>
-          <Button isDisabled={page === lastPage} onClick={() => setPage(page + 1)}>Next</Button>
-          <Button onClick={() => setPage(1)}>Reset</Button>
+            <Button isDisabled={page <= 1} onClick={() => setPage(page - 1)}>Prev</Button>
+            <Button>{page}</Button>
+            <Button isDisabled={page === lastPage} onClick={() => setPage(page + 1)}>Next</Button>
+            <Button onClick={() => setPage(1)}>Reset</Button>
+          </Box>
         </Box>
-        </Box>
-        
-      </Box>
 
-      {/* <Box style={{ marginTop: '50px' }}>
-          <Button isDisabled={page <= 1} onClick={() => setPage(page - 1)}>Prev</Button>
-          <Button>{page}</Button>
-          <Button isDisabled={page === lastPage} onClick={() => setPage(page + 1)}>Next</Button>
-          <Button onClick={() => setPage(1)}>Reset</Button>
-        </Box> */}
-    </>
+      </Box>
+                
+    </div>
   )
 }
 

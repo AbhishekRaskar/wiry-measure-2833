@@ -8,8 +8,9 @@ import Kids from "../Pages/Kids";
 import Featured from "../Pages/Featured"
 import Cart from '../Pages/Cart'
 import Login from '../Pages/Login'
-import SignUp from '../Pages/SignUp'
 import Favourite from "../Pages/Favourite"
+import SingleProduct from '../Pages/SingleProduct'
+import Register from '../Pages/Register'
 
 const AllRoutes = () => {
   return (
@@ -23,9 +24,9 @@ const AllRoutes = () => {
         <Route path="/featured" element={<Featured />} />
         <Route path="/cart" element={<Cart />} />
         <Route path="/login" element={<Login />} />
-        <Route path="/signup" element={<SignUp />} />
         <Route path="/favourite" element={<Favourite />} />
-       
+        <Route path='/singleproduct/:id' element={<SingleProduct />} />
+        <Route path="/register" element={<Register />} />
       </Routes>
     </div>
   )

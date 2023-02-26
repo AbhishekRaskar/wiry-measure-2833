@@ -2,7 +2,7 @@ import { Box, Center, Image, Stack, Text } from '@chakra-ui/react';
 import React from "react";
 import { Link as RouterLink } from "react-router-dom";
 
-function ProductCard({ id, category, name, image, price, description }) {
+function Kidcard({ id, category, name, image, price, description }) {
     return (
         <Center>
             <RouterLink to={`/singleproduct/${id}`}>
@@ -20,4 +20,4 @@ function ProductCard({ id, category, name, image, price, description }) {
     )
 }
 
-export default ProductCard;
+export default Kidcard;

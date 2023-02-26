@@ -15,6 +15,7 @@ const links = [
   { to: "/kids", name: "KIDS" },
   { to: "/sale", name: "SALE" },
   { to: "/featured", name: "FEATURED" },
+  { to: "/login", name: "LOGIN" },
 ]
 const active = { color: "teal", textDecoration: "none" }
 const deactive = { color: "black", textDecoration: "none" }
@@ -49,11 +50,12 @@ const Navbar = () => {
         <div className='icons'>
         <a className='lens' href="/"><FaSistrix /></a>
           <NavLink to="/favourite" ><AiOutlineHeart /></NavLink>
-          <NavLink to="/login"><AiOutlineUser /></NavLink>
+          <NavLink to="/register"><AiOutlineUser /></NavLink>
           <NavLink to="/cart"><AiOutlineShopping /></NavLink>
-          <a className='hamburger' href="/" onClick={(e)=> {
+          {/* <a className='hamburger' href="/" onClick={(e)=> {
             e.preventDefault() 
-            return setIcon(!icon)}} ><AiOutlineMenu /></a>
+            return setIcon(!icon)}} ><AiOutlineMenu /></a> */}
+            <NavLink to='/login'></NavLink>
         </div>
         
       </div>
